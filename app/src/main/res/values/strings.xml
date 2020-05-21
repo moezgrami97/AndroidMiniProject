@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Biblio</string>
+    <string-array name="TPdone">
+        <item>TP1</item>
+        <item>TP2</item>
+        <item>TP3</item>
+        <item>TP4</item>
+        <item>TP5</item>
+        <item>TP6</item>
+        <item>TP7</item>
+        <item>TP8</item>
+    </string-array>
+    <string-array name="desc">
+        <item>List View</item>
+        <item>Recycler View</item>
+        <item>Mini Projet</item>
+        <item>Fragments</item>
+        <item>Services</item>
+        <item>Broadcast</item>
+        <item>Persistance</item>
+        <item>Shared Preferences</item>
+    </string-array>
+</resources>
